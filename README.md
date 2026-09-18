@@ -89,5 +89,6 @@ lib/
 
 ## Download do APK
 
-Link para download: _(inserir aqui o link do APK gerado — Google Drive, GitHub Releases, etc.)_
+Link para download: [Baixar APK](https://github.com)
+
 
