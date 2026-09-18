@@ -83,7 +83,7 @@ lib/
 
 | Splash Screen | Home | Cadastro |
 |:---:|:---:|:---:|
-| _(inserir print aqui)_ | _(inserir print aqui)_ | _(inserir print aqui)_ |
+|  |  |  |
 
 ---
 
