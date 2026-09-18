@@ -89,6 +89,6 @@ lib/
 
 ## Download do APK
 
-Link para download: [Baixar APK](https://github.com)
+Link para download: [Baixar APK](sha256:7534da6274f2b925bed3b6619f0c509553ee88a16a929728556afc7aa5173183)
 
 
