@@ -64,17 +64,16 @@ lib/
 
 ## Como executar o projeto
 
-1. Instale o [Flutter SDK](https://docs.flutter.dev/get-started/install) (canal *stable*).
-2. Clone este repositório:
+1. Clone este repositório:
    ```bash
    git clone <URL_DO_REPOSITORIO>
    cd cadastro_pessoas_app
    ```
-3. Baixe as dependências:
+2. Baixe as dependências:
    ```bash
    flutter pub get
    ```
-4. Conecte um dispositivo/emulador e rode:
+3. Conecte um dispositivo/emulador e rode:
    ```bash
    flutter run
    ```
